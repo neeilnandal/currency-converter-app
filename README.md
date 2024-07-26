@@ -11,6 +11,17 @@ Currency converters are use useful to tourists, multi-national businesses, and f
 #  🛠️🛠️ Tools used 
 
 1.  Streamlit
-2.  Requests 
+2.  Requests
+
+#  🔧 Usage
+
+1. Enter the amount you want to enter
+2. Enter the source currency and the target currency of the app.
+3. Press submit
+
+#   Hosted link
+
+ The link is available at  https://github.com/neeilnandal/currency-converter-app.git  here
+ 
 
 
